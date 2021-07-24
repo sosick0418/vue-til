@@ -11,6 +11,9 @@
         ></PostListItem>
       </ul>
     </div>
+    <router-link to="/add" class="create-button">
+      +
+    </router-link>
   </div>
 </template>
 
